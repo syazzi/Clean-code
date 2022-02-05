@@ -1,5 +1,3 @@
-from asyncio.windows_events import NULL
-
 def main():
     sentence = input("Please make a sentence: ")
     what_sentence = SentenceSpeechDescriber(sentence)
