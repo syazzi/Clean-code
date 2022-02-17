@@ -1,0 +1,3 @@
+in this chapter this is the example on how to utilise comment, comment is not entirely used in evry program however a comment that is always used in a program means that the code is to vague to understand by other programmers which lead to bad program. a good program will alwayse be codes that only have small amount of comments needed but is understandable by reading the codes itself.
+
+as u can see that the bad code has comment so does good code however the good codes comment shows what gonna happen to the codes meanwhile the bad codes comment only describing the functions names whichh can be changed just by changing the functions name which make the function clearer as to what its gonna do.
